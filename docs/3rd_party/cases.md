@@ -1,6 +1,18 @@
 # Available cases
 
+## OpenDTU Fusion
+
+* [OpenDTU Fusion PCB with PoE Shield](https://www.thingiverse.com/thing:6371201){target=_blank}
+* [OpenDTU Fusion PCB with 1,54&Prime; OLED display](https://www.printables.com/model/700045-case-for-opendtu-fusion-pcb-with-154-oled-display){target=_blank}
+* [OpenDTU Fusion PCB with 2,42&Prime; OLED display](https://www.printables.com/model/1151105-opendtu-fusion-v23-case-fur-242-display){target=_blank}
+* [OpenDTU Fusion PCB DinRail with 1,3&Prime;/1,54&Prime; OLED/without display/with ISO mount](https://www.thingiverse.com/thing:6839520){target=_blank}
+
+## ESP32-S3
+
 * [ESP32-S3 DevKitC + NRF24](https://www.thingiverse.com/thing:6734089){target=_blank}
+
+## ESP32
+
 * [Open DTU box](https://www.thingiverse.com/thing:5435911){target=_blank}
 * [Sól: OpenDTU (ESP32 / NRF24L01+) case](https://www.printables.com/model/293003-sol-opendtu-esp32-nrf24l01-case){target=_blank}
 * [Complete solderless case for Olimex ESP32-POE-ISO](https://www.thingiverse.com/thing:5661780){target=_blank}
